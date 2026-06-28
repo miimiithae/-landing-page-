@@ -10,5 +10,3 @@ Features:
 - Maps
 - Patient resources
 
-Designed and maintained by:
-Dr. Miimii Thae
