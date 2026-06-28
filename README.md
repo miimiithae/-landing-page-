@@ -1,21 +1,23 @@
-# Dr. Bradley Makimaa NFC Landing Page
+# Dr. Bradley Makimaa NFC Landing Page — Version 2
 
-Simple, mobile-first landing page for NFC phone tap / digital business card use.
+Mobile-first luxury NFC landing page using GitHub Pages.
 
-## Files
-- `index.html` — homepage
-- `style.css` — visual styling
-- `bradley-makimaa.vcf` — downloadable contact card
-- `assets/` — images used on the page
+## Upload / Update
+Upload these files to the root of your GitHub repository:
+- `index.html`
+- `style.css`
+- `bradley-makimaa.vcf`
+- `assets/`
 
-## Quick edit notes
-Open `index.html` and update:
+Then click **Commit changes**. GitHub Pages will update automatically.
+
+## Main edit points
+Open `index.html` to edit:
 - phone number
-- booking URL
-- contact URL
-- office address
-- services/specialties
-- any bio text
+- appointment link
+- contact form link
+- address
+- bio text
+- specialties
 
-## Publish
-Upload all files to the root of the GitHub repository with GitHub Pages enabled from `main` and `/root`.
+Design colors are in `style.css` under `:root`.
